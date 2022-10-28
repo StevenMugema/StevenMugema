@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenMugema
-- 👀 I’m interested in java, c++ em se programacao
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in java, c++ and web 
+- 🌱 I’m currently learning php and js
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me ...
 
